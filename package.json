@@ -1,0 +1,17 @@
+{
+  "name": "jsnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./lesson_1/index.js",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
