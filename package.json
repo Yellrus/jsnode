@@ -4,7 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node ./lesson_1/index.js",
+    "start1": "node ./lesson_1/index.js",
+    "start2": "node ./lesson_2/index.js ./lesson_2/input.txt",
     "format": "prettier --write ."
   },
   "keywords": [],
@@ -12,6 +13,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "prettier": "^3.3.3"
+    "prettier": "3.3.3"
   }
 }

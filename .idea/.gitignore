@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/prettier.xml
+/codeStyles/Project.xml
+/vcs.xml
+/modules.xml
+/jsnode.iml
+/jsLibraryMappings.xml
+/codeStyles/codeStyleConfig.xml
