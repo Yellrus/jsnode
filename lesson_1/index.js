@@ -1,6 +1,6 @@
 import { data } from './mock.js'
 
-function printTree(node, prefix = '', isLast = true) {
+export const printTree = (node, prefix = '', isLast = true) => {
   // Выводим текущий узел
   console.log(`${prefix}${isLast ? '└── ' : '├── '}${node.name}`)
 
